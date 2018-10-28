@@ -4,6 +4,7 @@ user=$1
 pass=$2
 dbname=$3
 
+cd /home
 sudo -u postgres psql -c "create role $user with login createdb password '$pass';"
 sudo -u postgres psql -c "create database $dbname;"
 sudo -u postgres psql -c "grant all privileges on database $dbname to $user;"
