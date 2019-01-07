@@ -1,0 +1,6 @@
+#!/bin/bash
+set -e
+
+echo "Install <PROGRAMM_NAME>"
+# URL for PROGRAMM site
+# Steps for installs
