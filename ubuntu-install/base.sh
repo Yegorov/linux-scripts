@@ -9,9 +9,9 @@ sudo apt-get install -y \
     tmux \
     ssh rsync \
     curl wget \
-    build-essential cmake \ # gcc, make, etc...
+    build-essential cmake \
     xz-utils p7zip-rar p7zip-full \
-    net-tools \ # for ifconfig
+    net-tools \
     apt-transport-https \
     gnupg2
 
