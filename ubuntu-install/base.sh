@@ -17,6 +17,7 @@ sudo apt-get install -y \
     p7zip-rar \
     p7zip-full \
     net-tools \
+    traceroute \
     apt-transport-https \
     gnupg2
 
