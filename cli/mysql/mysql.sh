@@ -11,4 +11,5 @@ username=root
 
 cd /home
 sudo mysql -u "$username" -e "CREATE DATABASE $dbname;"
-sudo mysql -u "$username" -e "GRANT ALL PRIVILEGES ON $dbname.* TO '$user'@'localhost' IDENTIFIED BY '$pass';"
+sudo mysql -u "$username" -e "GRANT ALL PRIVILEGES ON $dbname.* TO '$user'@'localhost' IDENTIFIED BY '$pass';" \
+                             "FLUSH PRIVILEGES;"
