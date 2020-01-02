@@ -8,6 +8,7 @@ sudo apt-get install -y \
     vim \
     tmux \
     ssh \
+    sshpass \
     rsync \
     curl \
     wget \
