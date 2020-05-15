@@ -20,5 +20,8 @@ sudo apt-get install -y \
     net-tools \
     traceroute \
     apt-transport-https \
-    gnupg2
-
+    gnupg2 \
+    xsel \
+    at \
+    socat \
+    autossh

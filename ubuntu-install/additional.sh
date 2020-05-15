@@ -7,4 +7,5 @@ sudo apt-get install -y \
     screenfetch \
     neofetch \
     ncdu \
-    byobu
+    byobu \
+    htop
