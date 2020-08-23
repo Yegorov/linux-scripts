@@ -1,0 +1,14 @@
+#!/bin/bash
+set -e
+
+echo "Install <PROGRAMM_NAME>"
+# URL for PROGRAMM site
+# Steps for installs
+
+
+# cd /tmp
+# version='1.1.1'
+# wget "https://github.com/.../releases/download/${version}/MYBIN_${version}.tar.gz" -O MYBIN.tar.gz
+# tar -xzf MYBIN.tar.gz
+# mv MYBIN ~/.local/bin
+# rm MYBIN.tar.gz
