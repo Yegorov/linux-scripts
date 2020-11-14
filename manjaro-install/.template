@@ -12,3 +12,5 @@ echo "Install <PROGRAMM_NAME>"
 # tar -xzf MYBIN.tar.gz
 # mv MYBIN ~/.local/bin
 # rm MYBIN.tar.gz
+
+# chmod +x *.sh

@@ -1,0 +1,21 @@
+Firefox
+Google Chrome
+GIMP
+VLC
+Telegram
+VirtualBox
+Docker
+Vim
+Tmux
+JDK 8, 11 (OpenJDK)
+Python
+Go
+NVM (Node)
+RVM (Ruby)
+Nginx
+MySQL
+Postrges
+Redis
+MongoDB
+ImageMagick
+LibVips
