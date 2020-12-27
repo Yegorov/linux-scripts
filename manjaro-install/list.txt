@@ -19,3 +19,6 @@ Redis
 MongoDB
 ImageMagick
 LibVips
+
+GNU Scientific Library (sudo pacman -Sy gsl)
+
