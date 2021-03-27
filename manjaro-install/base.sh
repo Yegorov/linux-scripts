@@ -21,6 +21,7 @@ sudo pacman -S --noconfirm \
       aria2 \
       lshw \
       net-tools \
+      bind-tools \
       base-devel \
       cmake \
       gnupg \
