@@ -22,6 +22,8 @@ sudo pacman -S --noconfirm \
       lshw \
       net-tools \
       bind-tools \
+      dnsutils \
+      traceroute \
       base-devel \
       cmake \
       gnupg \
