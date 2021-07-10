@@ -12,7 +12,7 @@ sudo pacman -S --noconfirm \
       vim \
       tmux \
       htop \
-      ssh \
+      openssh \
       sshpass \
       autossh \
       rsync \
@@ -25,6 +25,7 @@ sudo pacman -S --noconfirm \
       dnsutils \
       traceroute \
       base-devel \
+      binutils \
       cmake \
       gnupg \
       yajl
